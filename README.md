@@ -1,4 +1,4 @@
-Web & Linux Basics 
+ Web & Linux Basics 
 
 This repository contains my  learning notes
 

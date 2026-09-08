@@ -40,8 +40,6 @@ This is the response body.The server sends back the details of the newly created
 # URLs: path vs query
 
 https://api.example.com:443/users/42/orders?status=open&limit=10#section
-└─┬─┘   └───────┬───────┘└┬┘└──────┬───────┘└────────┬────────┘└──┬──┘
-scheme        host      port     path            query string  fragment
 
 Scheme → https -  Tells us how to communicate with the server.
 

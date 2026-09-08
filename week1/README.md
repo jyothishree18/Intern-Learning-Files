@@ -1,16 +1,13 @@
- Web & Linux Basics 
+# Week 1 Learning
+This repository contains my learning notes and lab work.
 
-This repository contains my  learning notes
-
-Topics Covered:
-
-WSL and Linux,
-Linux vs Unix,
-IP Address,
-Public IP vs Private IP,
-Application Server,
-Web server
-
-Learning:
-
-I learned the basics of how the web works, Linux environments, networking and how web servers and application servers work together.
+## Topics Covered
+HTTP, curl and Postman
+Linux vs Unix
+IP Address
+Public vs Private IP
+Web Server
+Application Server
+WSL and Linux
+## Learning
+I learned the basics of Linux, networking, HTTP, and how web and application servers work together.

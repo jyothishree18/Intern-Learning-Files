@@ -12,4 +12,4 @@ In Week 2, I worked on a Flask-based Student Management API with **Basic Authent
 
 ## Tools Used
 
-**Python | Flask | SQLite | Postman | GitHub**
+**Python | Flask | MySQL | Postman | GitHub**

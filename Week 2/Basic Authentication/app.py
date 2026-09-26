@@ -18,7 +18,7 @@ swagger = Swagger(app, template={
     ]
 })
 # Database configuration
-app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:///students.db"
+app.config["SQLALCHEMY_DATABASE_URI"] = "mysql+pymysql://root:YOUR_PASSWORD@localhost/student_db"
 app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
 
 db = SQLAlchemy(app)

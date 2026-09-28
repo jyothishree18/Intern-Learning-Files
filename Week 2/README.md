@@ -8,3 +8,4 @@
 - Basic Authentication
 - Password Hashing
 - Postman
+- Swagger API

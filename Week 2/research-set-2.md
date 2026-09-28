@@ -255,6 +255,7 @@ Example:
 
 ---
 
+---
 ### 5. Request headers and response headers — what they carry
 **Request headers** carry information from the client to the server.
 

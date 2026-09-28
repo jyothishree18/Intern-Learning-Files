@@ -1,0 +1,47 @@
+ID,Question,Answer
+1,What is AI?,Artificial Intelligence is software built to perform tasks that requires human Intelligence.
+2,What is Machine Learning?,Machine Learning is a subset of Artificial Intelligence that enables computers to learn from data.
+3,What is Deep Learning?,Deep Learning is a branch of Machine Learning that uses neural networks.
+4,What is Python?,Python is a high-level programming language widely used for AI and Data Science.
+5,What is NLP?,Natural Language Processing enables computers to understand human language.
+6,Who developed Python?,Python was created by Guido van Rossum.
+7,What is Data Science?,Data Science is the process of extracting knowledge from data.
+8,What is Flask?,Flask is a lightweight Python web framework.
+9,What is Pandas?,Pandas is a Python library used for data analysis.
+10,What is NumPy?,NumPy is a Python library for numerical computing.
+ID,Question,Answer
+11,What is Linux?,Linux is an open-source operating system commonly used for servers and development.
+12,What is Unix?,Unix is a family of operating systems that influenced many modern operating systems including Linux.
+13,What is WSL?,WSL stands for Windows Subsystem for Linux and allows Linux environments to run on Windows.
+14,What is an operating system?,An operating system is software that manages computer hardware and provides services for applications.
+15,What is an IP address?,An IP address is a unique address used to identify a device on a network.
+16,What is IPv4?,IPv4 is the fourth version of the Internet Protocol and uses 32-bit addresses.
+17,What is IPv6?,IPv6 is the newer version of the Internet Protocol and uses 128-bit addresses.
+18,What is a public IP address?,A public IP address is an address used to identify a device or network on the internet.
+19,What is a private IP address?,A private IP address is used to identify devices within a local network.
+20,What is localhost?,Localhost refers to the computer you are currently using and commonly uses the IP address 127.0.0.1.
+21,What is DNS?,DNS stands for Domain Name System and converts domain names into IP addresses.
+22,What is HTTP?,HTTP stands for HyperText Transfer Protocol and is used for communication between clients and web servers.
+23,What is HTTPS?,HTTPS is the secure version of HTTP that encrypts communication between a client and server.
+24,What is a web application?,A web application is a software application that runs through a web browser.
+25,What is a web server?,A web server receives requests from clients and sends web content or responses back to them.
+26,What is an application server?,An application server runs the application logic and processes requests before sending responses.
+27,What is a client?,A client is a device or application that sends requests to a server.
+28,What is a server?,A server is a computer or software that provides services or resources to clients.
+29,What is a request?,A request is a message sent by a client to a server asking for a resource or action.
+30,What is a response?,A response is the message sent by a server back to the client after processing a request.
+31,What is GET?,GET is an HTTP method commonly used to retrieve data from a server.
+32,What is POST?,POST is an HTTP method commonly used to send data to a server.
+33,What is a URL?,A URL is the address used to locate a resource on the internet.
+34,What is JSON?,JSON is a lightweight data format commonly used to exchange data between applications.
+35,What is a query parameter?,A query parameter is a value added to a URL to provide additional information to a server.
+36,What is Flask?,Flask is a lightweight Python web framework used to build web applications and APIs.
+37,What is Git?,Git is a version control system used to track changes in code and files.
+38,What is a repository?,A repository is a location where a project's files and their version history are stored.
+39,What is a commit?,A commit is a saved snapshot of changes made to files in a Git repository.
+40,What is a branch in Git?,A branch is a separate line of development used to work on changes without affecting the main branch.
+41,What is a web browser?,A web browser is software used to access and interact with websites and web applications.
+42,What is a port?,A port is a number used to identify a specific service or application running on a device.
+43,What is a database?,A database is a system used to store and organize data so that applications can access it.
+44,What is client-server architecture?,Client-server architecture is a model where a client sends requests and a server processes them and returns responses.
+,What is Postman?,Postman is a tool used to test APIs.

@@ -255,20 +255,3 @@ Example:
 
 ---
 
----
-### 5. Request headers and response headers — what they carry
-**Request headers** carry information from the client to the server.
-
-Examples:
-- `Authorization` – authentication information
-- `Content-Type` – format of the request body
-- `Accept` – response format the client can handle
-
-**Response headers** carry information from the server to the client.
-
-Examples:
-- `Content-Type` – format of the response
-- `Content-Length` – response size
-- `Set-Cookie` – tells the browser to store a cookie
-
-Headers provide extra information about how the request or response should be handled.

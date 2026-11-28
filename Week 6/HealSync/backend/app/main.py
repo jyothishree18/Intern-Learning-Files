@@ -147,18 +147,4 @@ def health_check():
     return {
         "status": "healthy"
     }
-
-
-# ==================================
-# DATABASE HEALTH CHECK
-# ==================================
-
-@app.get("/db-health")
-def database_health():
-
-    with engine.connect() as connection:
-        connection.execute(text("SELECT 1"))
-
-    return {
-        "database": "connected"
     }

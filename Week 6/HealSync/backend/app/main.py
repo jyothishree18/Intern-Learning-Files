@@ -3,9 +3,6 @@ from contextlib import asynccontextmanager
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-
-from sqlalchemy import text
-
 from app.routes.report_routes import router as report_router
 from app.routes.patient_routes import router as patient_router
 from app.routes.staff_routes import router as staff_router
@@ -147,4 +144,9 @@ def health_check():
     return {
         "status": "healthy"
     }
-    }
+
+
+
+
+
+

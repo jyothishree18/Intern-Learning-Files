@@ -9,6 +9,7 @@ psycopg[binary]==3.3.6
 
 # Data Validation
 pydantic==2.14.1
+email-validator
 
 # Authentication & Security
 PyJWT==2.15.1
